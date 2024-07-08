@@ -1,0 +1,38 @@
+Time Sharing
+------------
+Every user have a specif time to do a job
+
+Textbook
+--------
+Code that do a job to do a proccess
+
+Process
+-------
+
+
+Process in memory
+-----------------
+
+stack is used to store when inturrupt happen
+head when there is info we need for one time
+data is data we store 
+text is the code
+
+
+Process State
+------------
+New: The process is Created
+Running: Instructions are beging Excuted
+Waiting: The Process is waiting for an event to accure
+Ready: Is waiting to finish work to communicate
+
+Threads
+=======
+
+A process could be of multiple threads
+A Thread returns one Singe value
+
+Process scheuling Queues
+------------------------
+
+Job queue

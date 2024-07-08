@@ -1,0 +1,107 @@
+Objects
+=======
+1) Enviroment
+2) Agent
+
+
+Enviroment
+==========
+
+Observable
+----------
+tic tac toe
+chess
+
+Partially Observable
+--------------------
+Self Driving Taxi
+
+>Attributes
+->Is the place that the AI Agent can move.
+->Deterministic //Can know the outcome if i do this action *Tree* eg. Tic tac to
+->Stochastic //You can't know the outcome eg. AI Taxi drive
+->Descrete // Can we say about the performance metric yes/no
+->Continuous //There is multip matric to evaluate th
+->Static // The Enviroment can only change by the Agent factor
+->Dynamic // The Enviroment can change without your factor eg. Taxi driver and it rains
+->SemiDynamic
+->Sequential //stand alone
+->Episodic //Conected to each other
+->Stratigatic
+
+Agent
+=====
+
+->Agent should work Rationally
+->Agent takes choices and Actions in the Actuators using the Precept he Have.
+
+>Sensors //Use to collect Information
+>Precept //The information
+>Actuators //Are the tools used to take actions
+>Omniscience //In reality it is Impossible to know everything
+>Performance matric //For every agent there could be multiple matrics meassures
+
+Partially Observable
+--------------------
+Self Driving Taxi
+
+
+Types of Agents
+===============
+
+1)Simple Reflex Agent //If-Else
+-------------------------------
+
+2)Model reflexive
+-----------------
+Check what is the outcome
+
+3)Goal Agent
+------------
+Keep Trying to reach the goal
+
+4)Utility Agent
+---------------
+Keep trying to reach the, But perfomance Matric is took. eg. 80% is better than 60%
+
+LEARNING AGENT
+--------------
+Experience is took, To better the performance
+
+===========
+Exercise
+===========
+
+Senario
+=======
+A drone that fights in a battelfield, there is alot of drones fliying together and Attacking targets
+
+Performance: Accurracy, number of kills, efficeincy, Survivability
+-----------
+
+Enviroment: Battlefield, buildings, weather, planes, Air Deffence
+----------
+
+Actuators: Rocketlaunchers, blades, motor, wings, lights
+---------
+
+Sensors: Camers, infrared, radar, barometer, 
+-------
+
+Observability: partial, Because the drone can't see by the camera sensor the whole battelfield
+-------------
+
+Deterministic/Stochastic: Deterministic, Because the ations are known, There is no randomness.
+-------------------------
+
+Static/Dynamic: Dynamic // There is alot of factors that may effect the drone in the battelfield
+---------------
+
+Single/Multi Agent: Multi Agent as mentioned in the senario
+-------------------
+
+
+
+
+
+

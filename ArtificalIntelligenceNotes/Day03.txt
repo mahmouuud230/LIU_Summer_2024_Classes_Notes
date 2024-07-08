@@ -1,0 +1,77 @@
+-----
+
+DFS
+===
+
+NOT COMPLETE
+NOT OPTIMAL
+Time Complexity: Bad
+Space Complexity: Good 
+
+Time Complexity: O(b^m) // b: Branching factor; m: Max Depth
+----------------
+
+Space Complexity: O(b*m)
+-----------------
+
+Stack
+
+BFS
+===
+
+COMPLETE
+OPTIMAL //Only if all the costs are the same.
+Time Complexity: Good
+Space Complexity: Bad
+
+Time Complexity: O(b^d) // Goal Depth (d): Which is the Goal Level
+----------------
+
+Space Complexity: O(b^d)
+-----------------
+
+Queue
+
+IDS(Iterative Deepening Search)
+===============================
+//
+
+Time Complexity: O(b^d)i
+----------------
+
+Space Complexity: O(b*d)      
+-----------------
+
+Stack
+
+LDS(Limited Depth First)
+===
+
+Time Complexity: O(b^L) //L: is the level that we set as a Limit
+----------------
+
+Space Complexity: O(b^d) 
+-----------------
+
+Stack
+
+Uniform Cost Search
+===================
+
+Yes
+Yes
+
+Time Complexity: O(b^c*/epsilon)
+----------------
+Space Complexity: O(b^c*/epsilon)      
+-----------------
+
+
+
+--------------
+Exercies
+--------------
+
+
+
+

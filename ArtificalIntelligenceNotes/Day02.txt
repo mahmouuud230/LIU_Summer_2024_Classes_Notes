@@ -1,0 +1,25 @@
+Search Problems
+===============
+
+>State Space //Current situation
+>Initial/Start State
+>Successor Functions // Action that the agent can do
+>Goal State // The desired output
+>Branching factor // max Action in the space
+>Max Depth // Last leaf in the tree
+
+Search Algorithim
+=================
+
+>Compliteness //Able to find the goal
+>Optimality // Finding the best goal
+>Time Complexity // Good in BFS , Bad in DFS
+>Space Complexity // Good in DFS, Bad in BFS
+>Fringe // Data structure
+>Successor Function/Stratetgy // LtR , RtL
+
+
+
+
+
+
