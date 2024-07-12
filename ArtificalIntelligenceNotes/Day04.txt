@@ -1,0 +1,29 @@
+
+Greedy search 
+=============
+
+Complete: No
+Optimal: No
+Time Complexity: O(b^m)
+Space Complexity: O(b^m)
+Fringe: heuristic priority queue
+
+A*
+==
+
+Complete: Yes
+Optimal: Yes if heuristic in monoton(Consistant)
+Time Complexity: Exponntial
+Space Complexity:   //Saves all nodes in memory
+Fringe: Priorety Queue heuristic + Cost 
+
+
+
+Admissablity
+------------
+h(x) <= g(x) //g(x) is the real cost from the start to the goal
+	h(x) //Astimated cost
+Monotone
+--------
+h(S)-h(A) <= g(A->A)
+

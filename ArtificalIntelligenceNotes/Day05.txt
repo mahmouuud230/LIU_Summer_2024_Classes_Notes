@@ -1,0 +1,20 @@
+Adversarial Search
+==================
+
+When 2 or more agents are competing or facing each other
+
+Algorithm: minimax(Search)
+
+Player1			Player Score // In the vision of Player1
+			------------
+Player1 		Player1 is max // Player one trying to be the max score
+Player2			Player2 is min // Player two trying to max the player's 1 score the min
+
+
+Optimization
+------------
+Alpha-Beta pruning
+
+a >= b		Max // a=alpha b=betta
+b <= b		Min
+
