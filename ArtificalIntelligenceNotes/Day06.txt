@@ -1,0 +1,42 @@
+Propositional Logic
+===================
+^: And
+v: False
+
+
+
+First order logic
+=================
+
+-Objects:
+	_Constants(Mahdi, Ahmad, ...)
+	_Variables(x, y, ...)
+
+-Binary predicates //eg. Friends(x, y)
+-Unary predicates //eg. Student(x)
+	
+-Connectives: 
+	_^ Conjunctions(and) // One and the other (both)
+	_v Desjunctions(or) // One or the other or (both)
+	_  negatation(not)
+	_--> implies
+	_<--> double implication // shi bye3ni she and the opposite
+	_  Equivilence eg. not male == female
+
+-Quantifiers:
+	_V Universal quiantifier: All, any, for every, every
+	_ Existential quantifier: there exists, at least one, some, a, an
+	_Proporties of Quantifiers:
+		_
+
+
+-Interpitations:
+	_Modles of (Friend(ahmad, mahdi))
+	_Counter models of (frineds(...))
+
+
+
+
+
+
+
