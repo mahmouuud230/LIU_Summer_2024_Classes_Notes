@@ -36,7 +36,7 @@ IDS(Iterative Deepening Search)
 ===============================
 //
 
-Time Complexity: O(b^d)i
+Time Complexity: O(b^d)
 ----------------
 
 Space Complexity: O(b*d)      
@@ -45,7 +45,7 @@ Space Complexity: O(b*d)
 Stack
 
 LDS(Limited Depth First)
-===
+========================
 
 Time Complexity: O(b^L) //L: is the level that we set as a Limit
 ----------------

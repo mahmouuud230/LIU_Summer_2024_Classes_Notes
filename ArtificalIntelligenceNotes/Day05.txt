@@ -16,5 +16,5 @@ Optimization
 Alpha-Beta pruning
 
 a >= b		Max // a=alpha b=betta
-b <= b		Min
+b <= a		Min
 
